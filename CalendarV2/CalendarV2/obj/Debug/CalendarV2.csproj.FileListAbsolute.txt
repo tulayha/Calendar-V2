@@ -1,0 +1,10 @@
+c:\users\talha.amjad\documents\visual studio 2013\Projects\CalendarV2\CalendarV2\bin\Debug\CalendarV2.exe.config
+c:\users\talha.amjad\documents\visual studio 2013\Projects\CalendarV2\CalendarV2\obj\Debug\CalendarV2.Calendar.resources
+c:\users\talha.amjad\documents\visual studio 2013\Projects\CalendarV2\CalendarV2\obj\Debug\CalendarV2.Properties.Resources.resources
+c:\users\talha.amjad\documents\visual studio 2013\Projects\CalendarV2\CalendarV2\obj\Debug\CalendarV2.csproj.GenerateResource.Cache
+c:\users\talha.amjad\documents\visual studio 2013\Projects\CalendarV2\CalendarV2\bin\Debug\CalendarV2.exe
+c:\users\talha.amjad\documents\visual studio 2013\Projects\CalendarV2\CalendarV2\bin\Debug\CalendarV2.pdb
+c:\users\talha.amjad\documents\visual studio 2013\Projects\CalendarV2\CalendarV2\obj\Debug\CalendarV2.exe
+c:\users\talha.amjad\documents\visual studio 2013\Projects\CalendarV2\CalendarV2\obj\Debug\CalendarV2.pdb
+C:\Users\talha.amjad\Documents\Visual Studio 2013\Projects\CalendarV2\CalendarV2\obj\Debug\CalendarV2.EventAdder.resources
+C:\Users\talha.amjad\Documents\Visual Studio 2013\Projects\CalendarV2\CalendarV2\obj\Debug\CalendarV2.csprojResolveAssemblyReference.cache
